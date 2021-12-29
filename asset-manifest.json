@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/birthday_reminder/static/css/main.30d6d7db.chunk.css",
+    "main.js": "/birthday_reminder/static/js/main.d70155cd.chunk.js",
+    "main.js.map": "/birthday_reminder/static/js/main.d70155cd.chunk.js.map",
+    "runtime-main.js": "/birthday_reminder/static/js/runtime-main.bf131aca.js",
+    "runtime-main.js.map": "/birthday_reminder/static/js/runtime-main.bf131aca.js.map",
+    "static/js/2.d66bb03b.chunk.js": "/birthday_reminder/static/js/2.d66bb03b.chunk.js",
+    "static/js/2.d66bb03b.chunk.js.map": "/birthday_reminder/static/js/2.d66bb03b.chunk.js.map",
+    "index.html": "/birthday_reminder/index.html",
+    "static/css/main.30d6d7db.chunk.css.map": "/birthday_reminder/static/css/main.30d6d7db.chunk.css.map",
+    "static/js/2.d66bb03b.chunk.js.LICENSE.txt": "/birthday_reminder/static/js/2.d66bb03b.chunk.js.LICENSE.txt",
+    "static/media/anu.83a8f736.jpg": "/birthday_reminder/static/media/anu.83a8f736.jpg",
+    "static/media/emma.477ae55a.png": "/birthday_reminder/static/media/emma.477ae55a.png",
+    "static/media/keira.b6bd6202.jpg": "/birthday_reminder/static/media/keira.b6bd6202.jpg",
+    "static/media/shawn.a3069f01.png": "/birthday_reminder/static/media/shawn.a3069f01.png",
+    "static/media/taylor.db55f6c5.png": "/birthday_reminder/static/media/taylor.db55f6c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf131aca.js",
+    "static/js/2.d66bb03b.chunk.js",
+    "static/css/main.30d6d7db.chunk.css",
+    "static/js/main.d70155cd.chunk.js"
+  ]
+}
