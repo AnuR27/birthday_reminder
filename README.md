@@ -1,3 +1,24 @@
+# birthday_reminder
+Developed a birthday reminder app using ReactJS
+
+Page:
+https://anur27.github.io/birthday_reminder/
+
+#tutorial project
+#beginner in React
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
